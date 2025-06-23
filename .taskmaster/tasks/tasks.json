@@ -16,14 +16,65 @@
         "id": 2,
         "title": "Audit Existing Chapter Files",
         "description": "Review all existing chapter_XX.md files to identify what has been created and what needs to be developed or refined.",
-        "details": "Create an inventory spreadsheet listing:\n- All existing chapter files (chapter_XX.md)\n- Current status (draft, review needed, complete)\n- Word count\n- Key topics covered\n- Missing elements\n- Alignment with structure in ebook_structure.md\n\nThis audit will serve as the baseline for all subsequent refinement tasks.",
-        "testStrategy": "Cross-reference the inventory with ebook_structure.md to ensure all planned chapters are accounted for. Validate that the audit captures all necessary metadata for decision-making.",
-        "priority": "high",
+        "status": "pending",
         "dependencies": [
           1
         ],
-        "status": "pending",
-        "subtasks": []
+        "priority": "high",
+        "details": "Create an inventory spreadsheet listing:\n- All existing chapter files (chapter_XX.md)\n- Current status (draft, review needed, complete)\n- Word count\n- Key topics covered\n- Missing elements\n- Alignment with structure in ebook_structure.md\n\nThis audit will serve as the baseline for all subsequent refinement tasks.\n\nNote: Subtasks have been created for developing missing chapters (17-19) and appendices (A-G) with initial status 'a desenvolver'.",
+        "testStrategy": "Cross-reference the inventory with ebook_structure.md to ensure all planned chapters are accounted for. Validate that the audit captures all necessary metadata for decision-making. Ensure the audit includes the newly created chapter files (17-19) and appendices (A-G).",
+        "subtasks": [
+          {
+            "id": 1,
+            "title": "Criar arquivo chapter_17.md",
+            "description": "Criar o arquivo chapter_17.md conforme a estrutura definida em ebook_structure.md para o capítulo 17: Advanced Implementation Patterns and Failure Recovery.",
+            "status": "pending",
+            "dependencies": [],
+            "details": "- Estruturar o capítulo conforme tópicos e entregáveis definidos em ebook_structure.md\n- Garantir alinhamento com o restante do livro\n- Incluir seções para: padrões avançados de implementação, análise de falhas, estratégias de recuperação e otimização de valor ao cliente\n- Deixar claro o status inicial como 'a desenvolver'\n<info added on 2025-06-23T19:00:57.242Z>\n- Seguir o estilo de escrita profissional, engajante e orientado à ação, conforme especificado no PRD\n- Incluir abertura impactante com estatísticas reais e citações de fontes Tier 1-2 (McKinsey, Harvard, MIT, etc.)\n- Estruturar o capítulo com 3-5 seções principais, exemplos concretos, frameworks práticos e entregáveis claros\n- Garantir que todas as referências sejam reais, verificáveis e citadas corretamente\n- Cumprir os critérios de sucesso e checklist de verificação do PRD\n- Escrever o capítulo em inglês, com 4.000-6.000 palavras\n- Incluir transições que incentivem a leitura do próximo capítulo\n</info added on 2025-06-23T19:00:57.242Z>",
+            "testStrategy": ""
+          },
+          {
+            "id": 2,
+            "title": "Criar arquivo chapter_18.md",
+            "description": "Criar o arquivo chapter_18.md conforme a estrutura definida em ebook_structure.md para o capítulo 18: Leading Traditional Market AI Transformation.",
+            "status": "pending",
+            "dependencies": [],
+            "details": "- Estruturar o capítulo conforme tópicos e entregáveis definidos em ebook_structure.md\n- Garantir alinhamento com o restante do livro\n- Incluir seções para: liderança de transformação, gestão de mudanças, liderança de mercado e governança\n- Deixar claro o status inicial como 'a desenvolver'\n<info added on 2025-06-23T19:01:04.057Z>\n- Seguir o estilo de escrita profissional, engajante e orientado à ação, conforme especificado no PRD\n- Incluir abertura impactante com estatísticas reais e citações de fontes Tier 1-2 (McKinsey, Harvard, MIT, etc.)\n- Estruturar o capítulo com 3-5 seções principais, exemplos concretos, frameworks práticos e entregáveis claros\n- Garantir que todas as referências sejam reais, verificáveis e citadas corretamente\n- Cumprir os critérios de sucesso e checklist de verificação do PRD\n- Escrever o capítulo em inglês, com extensão de 4.000-6.000 palavras\n- Incluir transições que incentivem a leitura do próximo capítulo\n- Manter alinhamento com o formato e estilo dos demais capítulos do livro\n</info added on 2025-06-23T19:01:04.057Z>",
+            "testStrategy": ""
+          },
+          {
+            "id": 3,
+            "title": "Criar arquivo chapter_19.md",
+            "description": "Criar o arquivo chapter_19.md conforme a estrutura definida em ebook_structure.md para o capítulo 19: Investment Framework and Financial Planning for AI Transformation.",
+            "status": "pending",
+            "dependencies": [],
+            "details": "- Estruturar o capítulo conforme tópicos e entregáveis definidos em ebook_structure.md\n- Garantir alinhamento com o restante do livro\n- Incluir seções para: planejamento de investimento, ROI, gestão de riscos financeiros e comunicação com stakeholders\n- Deixar claro o status inicial como 'a desenvolver'\n<info added on 2025-06-23T19:01:10.370Z>\n- Follow professional, engaging, and action-oriented writing style as specified in the PRD\n- Create impactful opening with real statistics and quotes from Tier 1-2 sources (McKinsey, Harvard, MIT, etc.)\n- Structure the chapter with 3-5 main sections, concrete examples, practical frameworks, and clear deliverables\n- Ensure all references are real, verifiable, and properly cited\n- Meet success criteria and verification checklist from the PRD\n- Write the chapter in English, with 4,000-6,000 words\n- Include transitions that encourage reading the next chapter\n- Mark initial status as 'to be developed'\n</info added on 2025-06-23T19:01:10.370Z>",
+            "testStrategy": ""
+          },
+          {
+            "id": 4,
+            "title": "Criar arquivos de apêndices (Appendix A-G)",
+            "description": "Criar os arquivos dos apêndices (A-G) conforme a estrutura definida em ebook_structure.md.",
+            "status": "pending",
+            "dependencies": [],
+            "details": "- Criar arquivos appendix_A.md até appendix_G.md\n- Estruturar cada apêndice conforme tópicos e entregáveis definidos em ebook_structure.md\n- Garantir alinhamento com o restante do livro\n- Deixar claro o status inicial como 'a desenvolver'\n<info added on 2025-06-23T19:01:14.357Z>\n- Follow the professional, engaging, and action-oriented writing style as specified in the PRD\n- Structure each appendix (appendix_A.md through appendix_G.md) with practical sections, frameworks, examples, and clear deliverables\n- Ensure all references are real, verifiable, and properly cited\n- Meet the success criteria and verification checklist from the PRD\n- Write content in English, focusing on immediate applicability for the target audience\n- Align appendices with the topics and deliverables defined in ebook_structure.md\n- Maintain consistency with the rest of the book\n- Mark initial status as 'to be developed'\n</info added on 2025-06-23T19:01:14.357Z>",
+            "testStrategy": ""
+          },
+          {
+            "id": 5,
+            "title": "Incluir novos arquivos no inventário de auditoria",
+            "description": "Atualizar o inventário para incluir os novos arquivos de capítulos e apêndices criados.",
+            "status": "pending",
+            "dependencies": [
+              1,
+              2,
+              3,
+              4
+            ],
+            "details": "- Adicionar ao inventário os arquivos chapter_17.md, chapter_18.md, chapter_19.md\n- Adicionar ao inventário os arquivos appendix_A.md até appendix_G.md\n- Registrar o status inicial 'a desenvolver' para cada um\n- Garantir que todos os metadados necessários sejam capturados para estes novos arquivos",
+            "testStrategy": ""
+          }
+        ]
       },
       {
         "id": 3,

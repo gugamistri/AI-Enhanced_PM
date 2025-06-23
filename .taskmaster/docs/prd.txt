@@ -1,7 +1,7 @@
 # Product Requirements Document (PRD)
 
 ## Título do Projeto
-AI-Enhanced Product Management: From Pilot to Scale
+AI-Powered Product Management: From Pilot to Production
 
 ## Objetivo
 Desenvolver um livro estratégico e prático para CEOs, líderes de produto e gestores de engenharia que buscam liderar transformações com IA em mercados tradicionais, cobrindo desde a concepção até a implementação e escalabilidade.
@@ -30,10 +30,138 @@ Desenvolver um livro estratégico e prático para CEOs, líderes de produto e ge
 - Ferramentas de avaliação, planejamento e execução para o leitor
 - Cada capitulo vai ser escrito em um arquivo separado no formato: chapter_XX.md. Ex. chapter_1.md, chapter_10.md
 
+
+## Writing Style
+- Professional business language with optimistic, engaging tone
+- Clear, immediately actionable content that drives reader completion
+- Use real-world cases and concrete examples with verified sources
+- Include practical illustrations and frameworks readers can implement
+- Balance strategic insights with tactical implementation guidance
+- Maintain reader engagement through compelling storytelling and proven results
+- Avoid academic jargon while maintaining executive-level authority
+- Create compelling chapter transitions that build anticipation and momentum
+- Write with confidence and expertise expected by senior product leaders
+
 ## Critérios de Sucesso
 - Estrutura do livro validada e alinhada ao público-alvo
 - Capítulos revisados e refinados conforme plano
 - Conteúdo prático, aplicável e diferenciado
+
+**Required Reference Types:**
+1. **McKinsey Research Reports** - Use actual McKinsey Global Institute reports on AI adoption, productivity, and transformation (State of AI, Economic Impact of AI, etc.)
+2. **Academic Research** - Cite peer-reviewed studies from Harvard Business Review, MIT Sloan Management Review, Stanford research, Journal of Product Innovation Management
+3. **Industry Studies** - Reference reports from Gartner, Forrester, PwC, Deloitte, BCG on AI transformation and product management
+4. **Expert Quotes** - Include real statements from recognized thought leaders (Marty Cagan, John Maeda, Reid Hoffman, etc.)
+5. **Company Case Studies** - Reference publicly available transformation stories from documented companies
+6. **Government/Regulatory Sources** - Use data from official sources, SEC filings, regulatory reports where applicable
+
+**Reference Format & Standards:**
+- In-text citations: "According to McKinsey's 2024 State of AI Report, 78% of organizations have adopted AI in at least one business function (McKinsey Global Institute, 2024)..."
+- Include full citations at chapter end with proper bibliographic format
+- Use real publication dates, authors, and verifiable sources only
+- Cross-reference multiple sources for major statistical claims
+- Ensure all McKinsey references are from actual published reports
+- Validate expert quotes are real and properly attributed
+
+**Source Priority Ranking:**
+1. **Tier 1:** McKinsey, BCG, Bain research reports and case studies
+2. **Tier 2:** Harvard Business Review, MIT research, peer-reviewed academic journals
+3. **Tier 3:** Gartner, Forrester, PwC industry analyst reports
+4. **Tier 4:** Company annual reports, SEC filings, public transformation case studies
+5. **Tier 5:** Reputable business media (Wall Street Journal, Financial Times, etc.)
+
+**Validation Standards:**
+- Never fabricate statistics, research findings, or case study results
+- Use only publicly available, verifiable sources
+- Verify all statistics are current and accurately represented
+- Include proper disclaimers when using anonymized examples
+- Ensure claims align with what sources actually state, not interpretations
+</reference_requirements>
+<chapter_generation_instructions>
+For each chapter you generate:
+
+**Structure Requirements:**
+1. **Compelling Opening** (200-300 words) that immediately demonstrates value with real statistics/case
+2. **3-5 Major Sections** with clear, actionable subheadings and logical progression
+3. **Concrete Examples** from verified case studies and documented implementations
+4. **Practical Frameworks** with step-by-step implementation guidance
+5. **Clear Deliverables** and transition setup for next chapter
+6. **4,000-6,000 words per chapter** depending on specified page count
+7. **Professional Sidebars** highlighting key insights and practical implementation tips
+8. **Real Supporting Research** with proper citations from tier 1-2 sources
+9. **Cumulative Value Building** where each chapter enhances and builds upon previous content
+10. **Natural Reading Flow** that maintains engagement and encourages book completion
+
+**Chapter Template:**
+```
+# Chapter X: [Compelling Title That Promises Specific Value]
+
+*[Opening hook with real statistic/scenario that demonstrates urgent need and opportunity]*
+
+## [Major Section 1: Strategic Context]
+*[Real research and industry analysis with proper citations]*
+
+### [Practical Subsection A]
+*[Detailed content with actionable frameworks]*
+
+### [Implementation Subsection B]  
+*[Step-by-step guidance with real examples]*
+
+## [Major Section 2: Framework Implementation]
+*[Core methodology with verified best practices]*
+
+### [Tactical Subsection A]
+*[Specific tools and techniques]*
+
+### [Results Subsection B]
+*[Measurable outcomes and success metrics]*
+
+## [Major Section 3: Advanced Applications]
+*[Real case studies and scaling strategies]*
+
+**[Professional Sidebar: Key Implementation Insight]**
+*[Practical tip or common pitfall with expert guidance]*
+
+**Chapter Deliverables:**
+- [Specific toolkit/framework with implementation steps]
+- [Actionable template readers can customize]
+- [Assessment tool with success criteria]
+- [Resource list with verified sources]
+
+**References:**
+*[Complete bibliography for chapter with proper citations]*
+
+*[Strategic transition that creates anticipation for next chapter]*
+```
+</chapter_generation_instructions>
+
+<verification_checklist>
+**Before completing each chapter, verify:**
+□ All statistics have real, traceable sources with proper citations
+□ Expert quotes are accurately attributed to documented statements
+□ Company examples are from publicly documented transformation cases
+□ McKinsey and consulting firm references are from actual published reports
+□ Academic citations include proper journal/publication details and dates
+□ No fabricated or "illustrative" examples presented as real data
+□ Reference list includes complete bibliographic information
+□ Claims accurately represent what sources actually state
+□ All frameworks are based on documented methodologies
+□ Case study results are from verified, public sources
+</verification_checklist>
+
+<success_criteria>
+Each chapter must:
+- **Solve Real Problems** faced by senior product leaders with immediate applicability
+- **Provide Actionable Insights** that readers can implement within 30 days
+- **Build Credibility** through verified results, expert validation, and real references
+- **Maintain Executive Engagement** through compelling storytelling and proven ROI
+- **Advance Overall Narrative** toward complete organizational transformation
+- **Include Practical Tools** with templates, frameworks, and implementation guides
+- **Reference Verified Outcomes** from real case studies with measurable results
+- **Balance Strategic Vision** with tactical execution guidance
+- **Meet Publishing Standards** for source verification and professional credibility
+- **Drive Reader Completion** through momentum-building chapter transitions
+</success_criteria>
 
 ## Etapas/Requisitos para Revisão e Refinamento
 1. Revisar cada capítulo para garantir aderência à estrutura definida
