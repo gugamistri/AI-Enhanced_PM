@@ -1,0 +1,239 @@
+@font-face {
+  font-family: 'Open Sans';
+  src: url('../fonts/OpenSans-Regular.ttf') format('truetype');
+}
+
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 14px;
+  line-height: 1.6;
+  margin: 40px;
+  color: #333;
+}
+
+h1, h2, h3 {
+  color: #2C3E50;
+  margin-top: 30px;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+  margin: 20px auto;
+}
+
+.page-break {
+  page-break-after: always;
+}
+
+.toc {
+  font-size: 12px;
+  margin-bottom: 40px;
+}
+
+/* ===== CONTROLE DE MARGENS PARA PDF ===== */
+
+/* Reset global */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+}
+
+/* ===== CAPA - SEM MARGEM ===== */
+.cover-page.no-margin {
+  margin: 0 !important;
+  padding: 0 !important;
+  width: 100%;
+  height: 100vh;
+  page-break-after: always;
+  overflow: hidden;
+}
+
+.cover-page.no-margin .cover {
+  margin: 0 !important;
+  padding: 15mm !important; /* Padding interno da capa */
+  width: 148mm !important;
+  height: 210mm !important;
+  background: #ffffff;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  position: relative;
+}
+
+.cover-page.no-margin .cover-container {
+  margin: 0 !important;
+  padding: 0 !important;
+  background: transparent !important;
+  min-height: auto !important;
+}
+
+/* ===== PÁGINAS DE CONTEÚDO - COM MARGEM ===== */
+.content-page.with-margin {
+  margin: 0;
+  padding: 15mm;
+  page-break-after: always;
+  min-height: calc(210mm - 30mm); /* A5 height minus margins */
+}
+
+/* ===== ESTILOS TIPOGRÁFICOS PARA CONTEÚDO ===== */
+.content-page h1 {
+  font-size: 24px;
+  font-weight: 700;
+  color: #1a1a1a;
+  margin-bottom: 20px;
+  page-break-after: avoid;
+}
+
+.content-page h2 {
+  font-size: 20px;
+  font-weight: 600;
+  color: #2563eb;
+  margin: 25px 0 15px 0;
+  page-break-after: avoid;
+}
+
+.content-page h3 {
+  font-size: 16px;
+  font-weight: 600;
+  color: #374151;
+  margin: 20px 0 10px 0;
+  page-break-after: avoid;
+}
+
+.content-page p {
+  font-size: 11px;
+  line-height: 1.5;
+  margin-bottom: 12px;
+  text-align: justify;
+}
+
+.content-page ul, .content-page ol {
+  margin: 12px 0 12px 20px;
+  font-size: 11px;
+}
+
+.content-page li {
+  margin-bottom: 6px;
+  line-height: 1.4;
+}
+
+.content-page blockquote {
+  margin: 15px 0;
+  padding: 10px 15px;
+  border-left: 4px solid #2563eb;
+  background: #f8fafc;
+  font-style: italic;
+  font-size: 10px;
+}
+
+.content-page table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 15px 0;
+  font-size: 10px;
+}
+
+.content-page th,
+.content-page td {
+  border: 1px solid #e5e7eb;
+  padding: 8px;
+  text-align: left;
+}
+
+.content-page th {
+  background: #f3f4f6;
+  font-weight: 600;
+}
+
+/* ===== QUEBRAS DE PÁGINA ===== */
+.page-break {
+  page-break-after: always;
+  height: 0;
+  margin: 0;
+  padding: 0;
+  border: none;
+  background: transparent;
+}
+
+/* Evitar quebras de página indesejadas */
+h1, h2, h3, h4, h5, h6 {
+  page-break-after: avoid;
+}
+
+/* ===== CONFIGURAÇÕES DE IMPRESSÃO ===== */
+@media print {
+  /* Primeira página (capa) sem margem */
+  @page:first {
+      margin: 0 !important;
+      size: A5;
+  }
+  
+  /* Demais páginas com margem */
+  @page {
+      margin: 15mm !important;
+      size: A5;
+  }
+  
+  /* Garantir que a capa não tenha margem */
+  .cover-page.no-margin {
+      margin: 0 !important;
+      padding: 0 !important;
+  }
+  
+  /* Garantir que o conteúdo tenha margem */
+  .content-page.with-margin {
+      margin: 0 !important;
+      padding: 0 !important; /* O padding será aplicado pela configuração @page */
+  }
+  
+  /* Controle de cores para impressão */
+  * {
+      print-color-adjust: exact;
+      -webkit-print-color-adjust: exact;
+  }
+}
+
+/* ===== ELEMENTOS ESPECIAIS ===== */
+.framework-box {
+  background: #f0f9ff;
+  border: 2px solid #2563eb;
+  border-radius: 8px;
+  padding: 15px;
+  margin: 20px 0;
+  page-break-inside: avoid;
+}
+
+.deliverables {
+  background: #f9fafb;
+  border-left: 4px solid #10b981;
+  padding: 15px;
+  margin: 20px 0;
+  page-break-inside: avoid;
+}
+
+.warning {
+  background: #fef3c7;
+  border: 1px solid #f59e0b;
+  border-radius: 6px;
+  padding: 12px;
+  margin: 15px 0;
+  page-break-inside: avoid;
+}
+
+/* ===== RESPONSIVIDADE PARA PREVIEW ===== */
+@media screen {
+  .cover-page.no-margin .cover {
+      max-width: 400px;
+      margin: 20px auto;
+      box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+  }
+}
