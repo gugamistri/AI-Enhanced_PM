@@ -9,14 +9,14 @@
         "testStrategy": "Verify that all directories are created correctly and accessible. Test the repository cloning process to ensure all collaborators can access the structure properly.",
         "priority": "high",
         "dependencies": [],
-        "status": "pending",
+        "status": "done",
         "subtasks": []
       },
       {
         "id": 2,
         "title": "Audit Existing Chapter Files",
         "description": "Review all existing chapter_XX.md files to identify what has been created and what needs to be developed or refined.",
-        "status": "pending",
+        "status": "done",
         "dependencies": [
           1
         ],
@@ -28,7 +28,7 @@
             "id": 1,
             "title": "Criar arquivo chapter_17.md",
             "description": "Criar o arquivo chapter_17.md conforme a estrutura definida em ebook_structure.md para o capítulo 17: Advanced Implementation Patterns and Failure Recovery.",
-            "status": "pending",
+            "status": "done",
             "dependencies": [],
             "details": "- Estruturar o capítulo conforme tópicos e entregáveis definidos em ebook_structure.md\n- Garantir alinhamento com o restante do livro\n- Incluir seções para: padrões avançados de implementação, análise de falhas, estratégias de recuperação e otimização de valor ao cliente\n- Deixar claro o status inicial como 'a desenvolver'\n<info added on 2025-06-23T19:00:57.242Z>\n- Seguir o estilo de escrita profissional, engajante e orientado à ação, conforme especificado no PRD\n- Incluir abertura impactante com estatísticas reais e citações de fontes Tier 1-2 (McKinsey, Harvard, MIT, etc.)\n- Estruturar o capítulo com 3-5 seções principais, exemplos concretos, frameworks práticos e entregáveis claros\n- Garantir que todas as referências sejam reais, verificáveis e citadas corretamente\n- Cumprir os critérios de sucesso e checklist de verificação do PRD\n- Escrever o capítulo em inglês, com 4.000-6.000 palavras\n- Incluir transições que incentivem a leitura do próximo capítulo\n</info added on 2025-06-23T19:00:57.242Z>",
             "testStrategy": ""
@@ -37,7 +37,7 @@
             "id": 2,
             "title": "Criar arquivo chapter_18.md",
             "description": "Criar o arquivo chapter_18.md conforme a estrutura definida em ebook_structure.md para o capítulo 18: Leading Traditional Market AI Transformation.",
-            "status": "pending",
+            "status": "done",
             "dependencies": [],
             "details": "- Estruturar o capítulo conforme tópicos e entregáveis definidos em ebook_structure.md\n- Garantir alinhamento com o restante do livro\n- Incluir seções para: liderança de transformação, gestão de mudanças, liderança de mercado e governança\n- Deixar claro o status inicial como 'a desenvolver'\n<info added on 2025-06-23T19:01:04.057Z>\n- Seguir o estilo de escrita profissional, engajante e orientado à ação, conforme especificado no PRD\n- Incluir abertura impactante com estatísticas reais e citações de fontes Tier 1-2 (McKinsey, Harvard, MIT, etc.)\n- Estruturar o capítulo com 3-5 seções principais, exemplos concretos, frameworks práticos e entregáveis claros\n- Garantir que todas as referências sejam reais, verificáveis e citadas corretamente\n- Cumprir os critérios de sucesso e checklist de verificação do PRD\n- Escrever o capítulo em inglês, com extensão de 4.000-6.000 palavras\n- Incluir transições que incentivem a leitura do próximo capítulo\n- Manter alinhamento com o formato e estilo dos demais capítulos do livro\n</info added on 2025-06-23T19:01:04.057Z>",
             "testStrategy": ""
@@ -46,7 +46,7 @@
             "id": 3,
             "title": "Criar arquivo chapter_19.md",
             "description": "Criar o arquivo chapter_19.md conforme a estrutura definida em ebook_structure.md para o capítulo 19: Investment Framework and Financial Planning for AI Transformation.",
-            "status": "pending",
+            "status": "done",
             "dependencies": [],
             "details": "- Estruturar o capítulo conforme tópicos e entregáveis definidos em ebook_structure.md\n- Garantir alinhamento com o restante do livro\n- Incluir seções para: planejamento de investimento, ROI, gestão de riscos financeiros e comunicação com stakeholders\n- Deixar claro o status inicial como 'a desenvolver'\n<info added on 2025-06-23T19:01:10.370Z>\n- Follow professional, engaging, and action-oriented writing style as specified in the PRD\n- Create impactful opening with real statistics and quotes from Tier 1-2 sources (McKinsey, Harvard, MIT, etc.)\n- Structure the chapter with 3-5 main sections, concrete examples, practical frameworks, and clear deliverables\n- Ensure all references are real, verifiable, and properly cited\n- Meet success criteria and verification checklist from the PRD\n- Write the chapter in English, with 4,000-6,000 words\n- Include transitions that encourage reading the next chapter\n- Mark initial status as 'to be developed'\n</info added on 2025-06-23T19:01:10.370Z>",
             "testStrategy": ""
@@ -55,7 +55,7 @@
             "id": 4,
             "title": "Criar arquivos de apêndices (Appendix A-G)",
             "description": "Criar os arquivos dos apêndices (A-G) conforme a estrutura definida em ebook_structure.md.",
-            "status": "pending",
+            "status": "done",
             "dependencies": [],
             "details": "- Criar arquivos appendix_A.md até appendix_G.md\n- Estruturar cada apêndice conforme tópicos e entregáveis definidos em ebook_structure.md\n- Garantir alinhamento com o restante do livro\n- Deixar claro o status inicial como 'a desenvolver'\n<info added on 2025-06-23T19:01:14.357Z>\n- Follow the professional, engaging, and action-oriented writing style as specified in the PRD\n- Structure each appendix (appendix_A.md through appendix_G.md) with practical sections, frameworks, examples, and clear deliverables\n- Ensure all references are real, verifiable, and properly cited\n- Meet the success criteria and verification checklist from the PRD\n- Write content in English, focusing on immediate applicability for the target audience\n- Align appendices with the topics and deliverables defined in ebook_structure.md\n- Maintain consistency with the rest of the book\n- Mark initial status as 'to be developed'\n</info added on 2025-06-23T19:01:14.357Z>",
             "testStrategy": ""
@@ -64,7 +64,7 @@
             "id": 5,
             "title": "Incluir novos arquivos no inventário de auditoria",
             "description": "Atualizar o inventário para incluir os novos arquivos de capítulos e apêndices criados.",
-            "status": "pending",
+            "status": "done",
             "dependencies": [
               1,
               2,
@@ -86,7 +86,7 @@
         "dependencies": [
           1
         ],
-        "status": "pending",
+        "status": "done",
         "subtasks": []
       },
       {
@@ -100,7 +100,7 @@
           2,
           3
         ],
-        "status": "pending",
+        "status": "done",
         "subtasks": []
       },
       {
@@ -114,7 +114,7 @@
           2,
           3
         ],
-        "status": "pending",
+        "status": "done",
         "subtasks": []
       },
       {
@@ -128,7 +128,7 @@
           2,
           3
         ],
-        "status": "pending",
+        "status": "done",
         "subtasks": []
       },
       {
@@ -142,7 +142,7 @@
           2,
           3
         ],
-        "status": "pending",
+        "status": "done",
         "subtasks": []
       },
       {
@@ -158,7 +158,7 @@
           6,
           7
         ],
-        "status": "pending",
+        "status": "done",
         "subtasks": []
       },
       {
@@ -174,7 +174,7 @@
           6,
           7
         ],
-        "status": "pending",
+        "status": "in-progress",
         "subtasks": []
       },
       {
@@ -190,7 +190,7 @@
           6,
           7
         ],
-        "status": "pending",
+        "status": "done",
         "subtasks": []
       },
       {
@@ -205,7 +205,7 @@
           9,
           10
         ],
-        "status": "pending",
+        "status": "done",
         "subtasks": []
       },
       {
@@ -218,8 +218,103 @@
         "dependencies": [
           11
         ],
-        "status": "pending",
-        "subtasks": []
+        "status": "in-progress",
+        "subtasks": [
+          {
+            "id": 1,
+            "title": "Create Brazilian Portuguese Terminology Glossary",
+            "description": "Develop a comprehensive glossary of industry-specific terms and their Brazilian Portuguese equivalents to ensure consistency throughout the translation.",
+            "dependencies": [],
+            "details": "Review the entire book to identify key technical terms, jargon, and recurring phrases. Research appropriate Brazilian Portuguese equivalents, consulting with subject matter experts if necessary. Document all terms in a spreadsheet with columns for English term, Brazilian Portuguese translation, context notes, and usage examples.",
+            "status": "done",
+            "testStrategy": "Have a native Brazilian Portuguese speaker with industry knowledge review the glossary for accuracy and cultural appropriateness."
+          },
+          {
+            "id": 2,
+            "title": "Translate Chapters 1-5",
+            "description": "Translate the first five chapters from English to Brazilian Portuguese while maintaining the original meaning and intent.",
+            "dependencies": [
+              1
+            ],
+            "details": "Using the terminology glossary as reference, translate each chapter sequentially. Focus on conveying the meaning rather than literal translation. Maintain the original formatting, headings, and paragraph structure. Save each translated chapter as chapter_0X_pt_BR.md where X is the chapter number.",
+            "status": "in-progress",
+            "testStrategy": "Perform a readability check by having a native speaker read through the translated content to ensure it flows naturally."
+          },
+          {
+            "id": 3,
+            "title": "Translate Chapters 6-10",
+            "description": "Translate the middle five chapters from English to Brazilian Portuguese while maintaining the original meaning and intent.",
+            "dependencies": [
+              1
+            ],
+            "details": "Continue the translation process for chapters 6-10 using the established glossary. Ensure consistency with previously translated chapters. Pay special attention to technical explanations and ensure they remain accurate in Portuguese. Save each translated chapter as chapter_0X_pt_BR.md or chapter_X_pt_BR.md as appropriate.",
+            "status": "pending",
+            "testStrategy": "Compare key sections with the English original to verify no content has been omitted or misinterpreted."
+          },
+          {
+            "id": 4,
+            "title": "Translate Remaining Chapters and Appendices",
+            "description": "Complete the translation of all remaining chapters and appendices from English to Brazilian Portuguese.",
+            "dependencies": [
+              1
+            ],
+            "details": "Translate the remaining chapters and all appendices following the established process. Maintain consistency with previously translated sections. For appendices, save files as appendix_X_pt_BR.md where X is the appendix identifier. Update the table of contents to reflect the Brazilian Portuguese chapter titles.",
+            "status": "pending",
+            "testStrategy": "Review transitions between chapters to ensure the narrative flows smoothly across the entire translated book."
+          },
+          {
+            "id": 5,
+            "title": "Adapt Examples and Case Studies",
+            "description": "Localize all examples, case studies, and practical scenarios to be relevant and relatable to Brazilian readers.",
+            "dependencies": [
+              2,
+              3,
+              4
+            ],
+            "details": "Review all examples and case studies throughout the translated content. Replace US/UK-specific examples with Brazilian equivalents where appropriate. Adapt company names, currencies, measurements, and legal references to Brazilian standards. Ensure examples remain technically accurate after adaptation.",
+            "status": "pending",
+            "testStrategy": "Have Brazilian industry professionals review the adapted examples for relevance and cultural appropriateness."
+          },
+          {
+            "id": 6,
+            "title": "Translate and Adapt Visual Elements",
+            "description": "Create Brazilian Portuguese versions of all diagrams, charts, tables, and other visual elements in the book.",
+            "dependencies": [
+              1
+            ],
+            "details": "Identify all visual elements requiring translation. Extract text from diagrams and charts, translate using the terminology glossary, and reinsert into the visuals. Maintain the original design and layout. For complex diagrams, work with a graphic designer if necessary. Save all translated visuals in a dedicated folder with consistent naming convention.",
+            "status": "pending",
+            "testStrategy": "Conduct side-by-side comparisons with original visuals to ensure all elements have been properly translated and no visual information has been lost."
+          },
+          {
+            "id": 7,
+            "title": "Perform Terminology and Consistency Review",
+            "description": "Review the entire translated book to ensure consistent terminology, style, and tone throughout all chapters and appendices.",
+            "dependencies": [
+              2,
+              3,
+              4,
+              5,
+              6
+            ],
+            "details": "Conduct a comprehensive review of the entire translated content. Check for consistent use of terminology according to the glossary. Verify that style and tone remain consistent across chapters translated at different times. Standardize formatting of headings, lists, and special text elements. Create a list of any inconsistencies found and corrections made.",
+            "status": "pending",
+            "testStrategy": "Use text analysis tools to identify inconsistent terminology usage and verify corrections have been properly implemented."
+          },
+          {
+            "id": 8,
+            "title": "Finalize and Package Translated Book",
+            "description": "Perform final quality checks, compile all translated content, and prepare the complete Brazilian Portuguese version of the book for publication.",
+            "dependencies": [
+              5,
+              6,
+              7
+            ],
+            "details": "Conduct a final proofreading of all translated content. Check for any formatting issues, broken links, or reference errors. Compile all chapter files, appendices, and visual elements into the final book structure. Update the index and table of contents with correct page references. Create a final package with all translated files organized according to the original book structure.",
+            "status": "pending",
+            "testStrategy": "Have a professional editor who is a native Brazilian Portuguese speaker perform a final review of the complete book for language quality and publishing standards."
+          }
+        ]
       },
       {
         "id": 13,
@@ -265,7 +360,7 @@
     ],
     "metadata": {
       "created": "2025-06-23T18:01:58.730Z",
-      "updated": "2025-06-23T18:01:58.730Z",
+      "updated": "2025-06-28T20:51:47.690Z",
       "description": "Tasks for master context"
     }
   }

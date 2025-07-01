@@ -2,6 +2,8 @@
 
 *"We are witnessing the most significant disconnect in business history between technological capability and practical impact. Organizations that bridge this gap first will redefine their industries. Those that don't will become case studies in missed opportunity."*
 
+> **Note:** For definitions of key terms such as "Gen AI Paradox", "horizontal AI", and "vertical AI", see the AI Glossary in Appendix G.
+
 ---
 
 ## The Monday Morning Reality Check

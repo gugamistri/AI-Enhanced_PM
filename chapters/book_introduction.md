@@ -91,6 +91,24 @@ This book is structured as a complete transformation journey, taking you from un
 
 **Part IV: Mastery and Organizational Transformation** explores advanced techniques for scaling success beyond individual workflows to organization-wide transformation. You'll discover how to build AI-native product cultures, measure and optimize transformation initiatives, and future-proof your approach as AI capabilities continue to evolve.
 
+## Book Structure: How to Navigate This Guide
+
+To make your journey easier, this book is organized into four main parts, each with a specific purpose:
+
+**Part I – Fundamentals (Chapters 1 to 4):**
+Presents the essential concepts of AI applied to product management. Ideal for those who are starting out or want to reinforce their theoretical and practical foundation, with a focus on clarity for non-technical audiences.
+
+**Part II – The Transformation Framework (Chapters 5 to 11):**
+Describes, step by step, the complete method for systematically implementing AI in product teams. Each chapter deepens one stage of the framework, with practical examples and templates.
+
+**Part III – Transformation in Practice (Chapters 12 to 14):**
+Showcases case studies and real applications of the framework, illustrating how teams overcame challenges and achieved concrete results.
+
+**Part IV – Scale and the Future (Chapters 15 to 19):**
+Explores advanced techniques to scale transformation, measure results, and build an AI-driven organizational culture, preparing the reader for upcoming trends.
+
+> This structure was designed so you can easily navigate between fundamentals, methodology, practical examples, and long-term strategies, adapting your reading to your current needs and goals.
+
 ## A Personal Invitation
 
 Before we dive into frameworks and case studies, let's acknowledge something important: AI transformation feels overwhelming because it is overwhelming. The pace of technological change, the pressure to show results, and the complexity of modern product organizations create a perfect storm of decision paralysis.

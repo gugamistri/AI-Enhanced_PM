@@ -192,4 +192,18 @@ A transformação de IA em mercados tradicionais é uma jornada complexa, mas vi
 
 ## Conclusion and Transition
 
-Visionary leadership and strong governance are the foundation of successful AI transformation. The next chapter will address the financial frameworks and investment strategies required to sustain and scale these initiatives. 
+Visionary leadership and strong governance are the foundation of successful AI transformation. The next chapter will address the financial frameworks and investment strategies required to sustain and scale these initiatives.
+
+**AI Leadership Operating Model**
+
+This diagram summarizes the key leadership and governance steps for successful AI transformation:
+
+```mermaid
+flowchart TD
+    V[Vision Setting] --> E[Executive Sponsorship]
+    E --> B[Board Engagement]
+    B --> G[Governance Structures]
+    G --> I[Investor Communication]
+    style V fill:#fffde7,stroke:#333,stroke-width:2px
+    style I fill:#ffe0b2,stroke:#333,stroke-width:2px
+``` 

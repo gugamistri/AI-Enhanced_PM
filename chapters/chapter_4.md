@@ -110,6 +110,8 @@ Traditional market leaders face competitive pressure to accelerate AI implementa
 
 **Traditional Market Transformation Challenges and Regulatory Constraints**
 
+> For detailed industry-specific guidance and compliance strategies, see Appendix D: Traditional Market Industry-Specific Guides.
+
 Traditional market organizations face unique transformation challenges that require specialized leadership approaches beyond what technology companies experience [3]:
 
 **Regulatory Compliance Integration:**

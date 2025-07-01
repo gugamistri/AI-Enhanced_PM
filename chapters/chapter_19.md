@@ -18,14 +18,18 @@ Harvard Business Review (2023) highlights that "AI is not just a tool for effici
 
 #### Framework: The AI Business Model Canvas
 
-1. **Value Proposition:** What unique outcomes does AI enable for customers?
-2. **Customer Segments:** Who benefits most from AI-driven solutions?
-3. **Channels:** How are AI products and services delivered and supported?
-4. **Revenue Streams:** What are the monetization mechanisms (subscription, usage-based, outcome-based, etc.)?
-5. **Key Resources:** What data, talent, and technology are required?
-6. **Key Activities:** What are the core processes for building, deploying, and maintaining AI solutions?
-7. **Partnerships:** Who are the strategic partners (startups, cloud providers, academia)?
-8. **Cost Structure:** What are the major cost drivers and scalability levers?
+**AI Business Model Canvas**
+
+| Block              | Description                                                      |
+|--------------------|------------------------------------------------------------------|
+| Value Proposition  | Unique outcomes AI enables for customers                         |
+| Customer Segments  | Who benefits most from AI-driven solutions                       |
+| Channels           | How AI products/services are delivered and supported              |
+| Revenue Streams    | Monetization mechanisms (subscription, usage-based, etc.)         |
+| Key Resources      | Data, talent, and technology required                            |
+| Key Activities     | Core processes for building, deploying, maintaining AI solutions  |
+| Partnerships       | Strategic partners (startups, cloud providers, academia)          |
+| Cost Structure     | Major cost drivers and scalability levers                        |
 
 **Case Example: John Deere's AI-Enabled Equipment**
 John Deere transformed its business by embedding AI in agricultural equipment, offering "Farming-as-a-Service" subscriptions. This shift generated new recurring revenue streams and improved customer loyalty (John Deere Annual Report, 2023).
