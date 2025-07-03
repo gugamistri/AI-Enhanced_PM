@@ -2,8 +2,6 @@
 
 *"As implementações de IA mais bem-sucedidas não substituem o pensamento humano—elas o amplificam. Compreender a ciência cognitiva por trás da colaboração humano-IA é a diferença entre implantar ferramentas caras e alcançar uma transformação genuína."*
 
-— Dr. Erik Brynjolfsson, Stanford Digital Economy Lab
-
 ---
 
 ## A Revolução Cognitiva na Gestão de Produtos
@@ -21,13 +19,13 @@ Mas o que mais surpreendeu Lisa: a IA não apenas economizou seu tempo—ela rev
 
 "Não era sobre a IA fazer meu trabalho," refletiu Lisa seis meses depois. "Era sobre a IA me ajudar a fazer meu trabalho melhor do que eu jamais imaginei."
 
-A experiência de Lisa ilustra o que cientistas cognitivos chamam de "complementaridade humano-IA"—o fenômeno em que sistemas de inteligência artificial ampliam, em vez de substituir, as capacidades cognitivas humanas. Pesquisas recentes do MIT CSAIL demonstram que as implementações de IA mais bem-sucedidas criam o que eles chamam de "amplificação cognitiva"—cenários em que inteligência humana e artificial se combinam para alcançar resultados impossíveis para cada uma isoladamente (Brynjolfsson & McAfee, MIT Sloan Management Review, 2024).
+A experiência de Lisa ilustra o que cientistas cognitivos chamam de "complementaridade humano-IA"—o fenômeno em que sistemas de inteligência artificial ampliam, em vez de substituir, as capacidades cognitivas humanas. Pesquisas recentes demonstram que as implementações de IA mais bem-sucedidas criam o que pesquisadores chamam de "amplificação cognitiva"—cenários em que inteligência humana e artificial se combinam para alcançar resultados impossíveis para cada uma isoladamente.
 
 **Este capítulo explora a ciência por trás da amplificação cognitiva e por que a gestão de produtos representa o ambiente perfeito para essa colaboração transformadora.**
 
 ## Compreendendo a Teoria da Amplificação Cognitiva
 
-Pesquisas do Human-Centered AI Institute de Stanford revelam que a implementação bem-sucedida de IA exige compreender as diferenças fundamentais entre inteligência humana e artificial, e então desenhar fluxos de trabalho que aproveitem os pontos fortes de cada sistema (Fei-Fei Li et al., Stanford HAI Annual Report, 2024).
+Pesquisas do Stanford Institute for Human-Centered AI revelam que a implementação bem-sucedida de IA exige compreender as diferenças fundamentais entre inteligência humana e artificial, e então desenhar fluxos de trabalho que aproveitem os pontos fortes de cada sistema.
 
 ### A Vantagem Cognitiva Humana
 
@@ -35,7 +33,7 @@ Pesquisas do Human-Centered AI Institute de Stanford revelam que a implementaç�
 Humanos são excelentes em identificar padrões estratégicos a partir de informações incompletas. Product managers naturalmente sintetizam sinais de mercado, comportamento do cliente e dinâmica competitiva para formar hipóteses estratégicas—uma capacidade que surge do que neurocientistas chamam de "raciocínio contextual".
 
 **Empatia e Inteligência Emocional**
-Pesquisas da Harvard Business School mostram que decisões de produto que exigem gestão de stakeholders, empatia com o cliente e liderança de mudanças dependem de capacidades humanas únicas que a IA não pode replicar (Amy Edmondson, Harvard Business Review, 2024).
+Pesquisas da Harvard Business School mostram que decisões de produto que exigem gestão de stakeholders, empatia com o cliente e liderança de mudanças dependem de capacidades humanas únicas que a IA não pode replicar.
 
 **Resolução Criativa de Problemas sob Ambiguidade**
 Product managers navegam rotineiramente por cenários com requisitos contraditórios, métricas de sucesso pouco claras e prioridades em constante mudança. Essa "tolerância à ambiguidade" representa uma força cognitiva humana central que complementa a necessidade da IA por entradas estruturadas e objetivos definidos.
@@ -87,7 +85,7 @@ Product managers normalmente operam sob o que psicólogos chamam de "sobrecarga 
 - Análise e síntese de feedback de clientes
 - Coordenação entre planejamento estratégico e execução tática
 
-Estudos de neuroimagem da UC Berkeley mostram que product managers experientes exibem alta atividade no córtex pré-frontal durante dias típicos de trabalho, indicando engajamento constante de funções executivas, o que leva à fadiga decisória e redução da capacidade de pensamento estratégico (Matthew Lieberman, UCLA Social Cognitive Neuroscience Lab, 2024).
+Estudos de neuroimagem mostram que product managers experientes exibem alta atividade no córtex pré-frontal durante dias típicos de trabalho, indicando engajamento constante de funções executivas, o que leva à fadiga decisória e redução da capacidade de pensamento estratégico.
 
 **Distribuição da Carga Cognitiva com IA**
 Quando sistemas de IA assumem coleta de informações, detecção de padrões e análise rotineira, a neuroimagem mostra:
@@ -98,7 +96,7 @@ Quando sistemas de IA assumem coleta de informações, detecção de padrões e 
 
 ### A Conexão com o Estado de Flow
 
-Pesquisas do Flow Research Institute de Mihaly Csikszentmihalyi demonstram que fluxos de trabalho aprimorados por IA podem desencadear "estados de flow"—períodos de desempenho ótimo caracterizados por concentração sem esforço e criatividade ampliada (Csikszentmihalyi & Nakamura, Journal of Positive Psychology, 2024).
+Pesquisas sobre estados de flow demonstram que fluxos de trabalho aprimorados por IA podem desencadear "estados de flow"—períodos de desempenho ótimo caracterizados por concentração sem esforço e criatividade ampliada.
 
 **Barreiras ao Flow na Gestão de Produtos Tradicional**
 - Interrupções constantes para coleta de dados e atualizações de stakeholders
@@ -112,7 +110,7 @@ Pesquisas do Flow Research Institute de Mihaly Csikszentmihalyi demonstram que f
 - Identificação proativa de problemas que mantém o foco estratégico
 - Gestão automatizada de fluxos de trabalho que elimina interrupções administrativas
 
-Product managers em ambientes aprimorados por IA relatam 73% mais estados de flow frequentes em comparação a fluxos de trabalho tradicionais, correlacionando com 41% mais satisfação no trabalho e 38% de melhoria na qualidade das decisões estratégicas (Flow Research Collaborative Study, 2024).
+Product managers em ambientes aprimorados por IA relatam estados de flow mais frequentes em comparação a fluxos de trabalho tradicionais, correlacionando com maior satisfação no trabalho e melhoria na qualidade das decisões estratégicas.
 
 ## A Vantagem da Gestão de Produtos B2B
 

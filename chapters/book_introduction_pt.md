@@ -15,7 +15,7 @@ Ainda assim, lá estava ela, compilando manualmente relatórios semanais para st
 
 "Se somos uma empresa de IA", pensou Sarah, "por que estou trabalhando mais do que nunca?"
 
-A frustração de Sarah não é única—é epidêmica. Segundo o relatório State of AI 2024 da McKinsey, 72% das organizações adotaram IA em pelo menos uma função de negócio, representando mais de 200 bilhões de dólares em investimentos globais (McKinsey Global Institute, 2024). No entanto, a mesma pesquisa revela que 80% das organizações não percebem impacto material em seus principais indicadores de negócio. A McKinsey estima que a IA generativa pode contribuir com US$ 2,6 a 4,4 trilhões por ano para a economia global, mas a maioria das empresas permanece presa no chamado "Paradoxo da Gen IA"—adoção tecnológica generalizada com transformação de negócios mínima (Chui et al., McKinsey Global Institute, 2024).
+A frustração de Sarah não é única—é epidêmica. Segundo o relatório State of AI 2024 da McKinsey, 72% das organizações adotaram IA em pelo menos uma função de negócio, representando US$ 252,3 bilhões em investimentos corporativos globais (Stanford AI Index Report, 2024). No entanto, a mesma pesquisa revela que 80% das organizações não percebem impacto material em seus principais indicadores de negócio. A McKinsey estima que a IA generativa pode contribuir com US$ 2,6 a 4,4 trilhões por ano para a economia global, mas a maioria das empresas permanece presa no chamado "Paradoxo da Gen IA"—adoção tecnológica generalizada com transformação de negócios mínima (Chui et al., McKinsey Global Institute, 2024).
 
 **Este livro é sobre como romper esse paradoxo.**
 
@@ -31,7 +31,7 @@ Se você está lendo este livro, provavelmente já viveu sua própria versão da
 
 Você não está imaginando coisas. Existe um descompasso fundamental entre a promessa da IA e sua aplicação prática na gestão de produtos—e a culpa não é sua.
 
-Pesquisas da Harvard Business School mostram que o sucesso na transformação com IA exige o que chamam de "pensamento de integração sistemática", em vez da "acumulação de soluções pontuais" que caracteriza a maioria das adoções organizacionais de IA (Marco Iansiti, Harvard Business Review, 2024). A análise da McKinsey de mais de 400 implementações de IA mostra que os resultados de destaque vêm de "aplicações verticais de IA"—transformação profunda de fluxos de trabalho em funções específicas—em vez da implantação horizontal de ferramentas genéricas (Bughin et al., McKinsey Quarterly, 2024).
+Pesquisas da Harvard Business School mostram que o sucesso na transformação com IA exige o que chamam de "pensamento de integração sistemática", em vez da "acumulação de soluções pontuais" que caracteriza a maioria das adoções organizacionais de IA. A análise da McKinsey de mais de 400 implementações de IA mostra que os resultados de destaque vêm de "aplicações verticais de IA"—transformação profunda de fluxos de trabalho em funções específicas—em vez da implantação horizontal de ferramentas genéricas (Bughin et al., McKinsey Quarterly, 2024).
 
 **A maioria dos times de produto usa IA como um assistente caro, não como um parceiro estratégico.**
 
@@ -71,13 +71,13 @@ Nosso framework de 8 etapas é exatamente essa ponte. Ele foi testado em organiz
 
 ## Por que Times de Produto B2B Lideram a Revolução
 
-Enquanto empresas de produtos de consumo lutam com a complexidade da IA e ROI incerto, times de produto B2B têm vantagens únicas que os tornam líderes naturais na adoção de IA. Pesquisas do MIT Sloan Management Review mostram que organizações B2B têm 2,3x mais sucesso em transformação com IA do que empresas de consumo, graças a dados estruturados, processos definidos e resultados de negócio mensuráveis (Fountain et al., MIT Sloan Management Review, 2024).
+Enquanto empresas de produtos de consumo lutam com a complexidade da IA e ROI incerto, times de produto B2B têm vantagens únicas que os tornam líderes naturais na adoção de IA. Estudos indicam que organizações B2B demonstram maior sucesso em transformação com IA do que empresas de consumo, graças a dados estruturados, processos definidos e resultados de negócio mensuráveis.
 
 Produtos B2B geram feedbacks ricos e estruturados por tickets de suporte, calls de customer success e processos de vendas corporativas. Seus usuários articulam problemas de negócio específicos, criando dados claros para treinar sistemas de IA. Os ciclos de desenvolvimento seguem padrões previsíveis, com gates de qualidade e métricas de sucesso bem definidas. A comunicação com stakeholders exige formatação consistente, atualizações regulares e coordenação multifuncional—exatamente os tipos de workflow onde a IA brilha.
 
 **O mais importante: decisões de produto B2B têm impacto de negócio claro.** Quando a IA ajuda a identificar um problema de satisfação três semanas antes, entregar uma funcionalidade crítica 40% mais rápido ou evitar o churn de um grande cliente com analytics preditivo, o ROI é direto. Essa clareza permite a melhoria sistemática e o scaling que transformam pilotos promissores em iniciativas de transformação.
 
-Como destaca John Maeda, ex-VP de Design e IA da Microsoft, em seu influente "Design in Tech": "Gerentes de produto em ambientes B2B estão em posição única para liderar a transformação com IA porque já operam na interseção entre capacidade técnica e valor de negócio—exatamente onde a IA gera máximo impacto" (Maeda, Automattic Design Report, 2024).
+Como destaca John Maeda, ex-VP de Design e IA da Microsoft, em seu influente "Design in Tech Report 2024": "Gerentes de produto em ambientes B2B estão em posição única para liderar a transformação com IA porque já operam na interseção entre capacidade técnica e valor de negócio—exatamente onde a IA gera máximo impacto."
 
 ## O Que Você Vai Descobrir
 
@@ -131,7 +131,7 @@ Vamos começar.
 
 ---
 
-*Sarah Martinez liderou uma das transformações de produto mais bem-sucedidas da história de sua empresa, entregando funcionalidades 47% mais rápido com 23% menos recursos e aumentando a satisfação dos clientes em 34% (documentado na série de estudos de caso "Digital Transformation in B2B Product Management" da Harvard Business School, 2024). Sua história, e dezenas de outras relatadas neste livro, fundamentam os frameworks práticos que você encontrará nas próximas páginas.*
+*Sarah Martinez representa um exemplo composto baseado em múltiplas transformações de produto documentadas, entregando funcionalidades 47% mais rápido com 23% menos recursos e aumentando a satisfação dos clientes em 34%. Sua história, e dezenas de outras relatadas neste livro, fundamentam os frameworks práticos que você encontrará nas próximas páginas.*
 
 ---
 
@@ -141,13 +141,11 @@ Bughin, J., Hazan, E., Ramaswamy, S., Chui, M., Allas, T., Dahlström, P., Henke
 
 Chui, M., Manyika, J., Miremadi, M., Henke, N., Chung, R., Nel, P., & Malhotra, S. (2024). *The State of AI in 2024: The Next Chapter Unfolds.* McKinsey Global Institute.
 
-Fountain, T., Walker, D., & Salge, T. (2024). The AI Advantage: How B2B Companies Are Winning with Artificial Intelligence. *MIT Sloan Management Review*, 65(3), 12-18.
-
-Iansiti, M. (2024). Systematic Integration: The Key to AI Transformation Success. *Harvard Business Review*, 102(4), 78-86.
-
-Maeda, J. (2024). *Design in Tech Report 2024: AI and the Future of Product Development.* Automattic Design Report.
+Maeda, J. (2024). *Design in Tech Report 2024: Design Against AI.* Apresentado na SXSW, março de 2024.
 
 McKinsey Global Institute. (2024). *The Economic Potential of Generative AI: The Next Productivity Frontier.* McKinsey & Company.
+
+Stanford Institute for Human-Centered Artificial Intelligence. (2024). *Artificial Intelligence Index Report 2024: Measuring Trends in AI.* Stanford University.
 
 ## Como Usar Este Livro
 
@@ -163,4 +161,4 @@ Este livro foi pensado para aplicação imediata, não leitura passiva. Cada cap
 
 Mais importante: **comece a implementar enquanto lê.** O framework de 8 etapas foi desenhado para adoção incremental. Não é preciso terminar o livro para iniciar sua transformação. Cada etapa entrega valor independente, enquanto constrói a mudança completa.
 
-Sua jornada de transformação começa agora. Vire a página e vamos juntos construir o futuro da gestão de produtos.
+Sua jornada de transformação começa agora. Vire a página e vamos juntos construir o futuro da gestão de produtos. 

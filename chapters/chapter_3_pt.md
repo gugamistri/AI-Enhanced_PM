@@ -2,7 +2,7 @@
 
 *Narrativa Problema-Solução: Começando pelo fracasso no relacionamento*
 
-Por que 73% das implementações de IA falham em melhorar o relacionamento com o cliente, apesar do enorme investimento em tecnologia? Por que capacidades sofisticadas de IA que demonstram excelência técnica frequentemente resultam em queda na satisfação do cliente e enfraquecimento do posicionamento de mercado? A resposta está em um equívoco fundamental sobre o que os clientes realmente valorizam versus o que a tecnologia pode entregar.
+Por que muitas implementações de IA falham em melhorar o relacionamento com o cliente, apesar do enorme investimento em tecnologia? Por que capacidades sofisticadas de IA que demonstram excelência técnica frequentemente resultam em queda na satisfação do cliente e enfraquecimento do posicionamento de mercado? A resposta está em um equívoco fundamental sobre o que os clientes realmente valorizam versus o que a tecnologia pode entregar.
 
 O padrão é comum: organizações investem pesado em IA para otimizar métricas que engenheiros entendem—velocidade de processamento, taxas de acurácia, eficiência de automação—mas degradam inadvertidamente os elementos humanos mais valorizados pelos clientes: empatia, continuidade no relacionamento e visão estratégica que aborda o contexto único de cada negócio.
 
@@ -10,7 +10,7 @@ A equipe de produto da DataFlow Systems exemplificou esse descompasso. Após sei
 
 A virada veio durante uma sessão de conselho de clientes, quando seu maior cliente corporativo revelou o problema fundamental: "Sua IA está otimizando para métricas que nunca pedimos para otimizar. Vocês estão resolvendo problemas mais rápido, mas não são os nossos problemas." Esse momento cristalizou um insight crítico que separa a transformação de IA bem-sucedida da sofisticação tecnológica sem impacto de negócio: a inteligência do cliente deve guiar a implementação de IA, não o contrário.
 
-A análise abrangente da Harvard Business School sobre padrões de transformação com IA revela uma verdade marcante: organizações que conquistam vantagem competitiva sustentável com IA seguem um padrão consistente—começam com profundo entendimento do cliente e constroem capacidades de IA para ampliar esse entendimento, em vez de partir das capacidades de IA e buscar aplicações para o cliente. Essa abordagem centrada no cliente permite taxas de sucesso 60-80% maiores em iniciativas de IA e constrói vantagens competitivas difíceis de replicar.
+Análises sobre padrões de transformação com IA revelam uma verdade marcante: organizações que conquistam vantagem competitiva sustentável com IA seguem um padrão consistente—começam com profundo entendimento do cliente e constroem capacidades de IA para ampliar esse entendimento, em vez de partir das capacidades de IA e buscar aplicações para o cliente. Essa abordagem centrada no cliente demonstra taxas de sucesso significativamente maiores em iniciativas de IA e constrói vantagens competitivas difíceis de replicar.
 
 A distinção é fundamental para resolver o Paradoxo da Gen AI. Enquanto abordagens orientadas por tecnologia otimizam capacidades de IA isoladamente, abordagens centradas no cliente otimizam capacidades de IA para criação de valor específico para o cliente. Isso cria a base para uma implementação sistemática que gera resultados reais de negócio e fortalece o relacionamento e o posicionamento de mercado.
 
@@ -20,7 +20,7 @@ O alicerce da transformação bem-sucedida com IA está em reconhecer a intelig�
 
 **Entendimento do Cliente Impulsiona o Sucesso da Implementação de IA**
 
-A análise do Stanford Research Institute de 2.400 projetos de implementação de IA revela que iniciativas centradas no cliente alcançam taxas de sucesso de 70-85% na escala de produção, contra 8-12% das abordagens orientadas por tecnologia [3]. A diferença está em vários fatores críticos:
+Estudos sobre projetos de implementação de IA revelam que iniciativas centradas no cliente alcançam taxas de sucesso significativamente maiores na escala de produção em comparação às abordagens orientadas por tecnologia. A diferença está em vários fatores críticos:
 
 **Alinhamento Problema-Solução:**
 Abordagens centradas no cliente começam com problemas validados do cliente e desenvolvem capacidades de IA para resolvê-los de forma mais eficaz. Isso garante que cada investimento em IA apoie diretamente a criação de valor para o cliente e os objetivos de negócio.
@@ -36,7 +36,7 @@ Capacidades de IA desenvolvidas a partir de profundo entendimento do cliente cri
 
 **Metodologias de Descoberta de Cliente Aprimoradas por IA**
 
-A integração de capacidades de IA com metodologias comprovadas de descoberta de cliente cria vantagens compostas em entendimento e validação [4]. Em vez de substituir a pesquisa humana, a IA aprofunda, amplia e sistematiza o desenvolvimento de inteligência do cliente:
+A integração de capacidades de IA com metodologias comprovadas de descoberta de cliente cria vantagens compostas em entendimento e validação. Em vez de substituir a pesquisa humana, a IA aprofunda, amplia e sistematiza o desenvolvimento de inteligência do cliente:
 
 **Análise Aprimorada de Entrevistas com Clientes:**
 - Transcrição automatizada e análise de sentimento de conversas

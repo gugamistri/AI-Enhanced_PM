@@ -22,11 +22,11 @@ A experiência de David reflete o que pesquisadores da McKinsey chamam de "Parad
 
 **Os números contam uma história contundente:**
 - 72% das empresas já usam IA generativa em pelo menos uma função de negócio (McKinsey Global Institute, 2024)
-- O investimento global em IA atingiu US$ 200 bilhões em 2024 (Stanford AI Index Report, 2024)
+- O investimento corporativo global em IA atingiu US$ 252,3 bilhões em 2024 (Stanford AI Index Report, 2024)
 - A McKinsey estima que a IA pode liberar de US$ 2,6 a US$ 4,4 trilhões em valor anual globalmente (Chui et al., 2024)
 - Ainda assim, 80% das organizações relatam nenhum impacto material em seus resultados (McKinsey State of AI Report, 2024)
 
-Para a gestão de produtos, esse paradoxo é ainda mais agudo. Pesquisas do Product Management Institute mostram que 89% das equipes de produto já experimentaram ferramentas de IA, mas apenas 23% relatam melhorias mensuráveis em métricas centrais como time-to-market ou satisfação do cliente (Product Management Institute Annual Survey, 2024).
+Para a gestão de produtos, esse paradoxo é ainda mais agudo. Estudos recentes indicam que embora a maioria das equipes de produto já tenha experimentado ferramentas de IA, apenas uma minoria relata melhorias mensuráveis em métricas centrais como time-to-market ou satisfação do cliente.
 
 **Este capítulo revela por que o paradoxo existe e, mais importante, como superá-lo.**
 
@@ -69,23 +69,23 @@ Organizações que escapam do Paradoxo da Gen AI focam em aplicações verticais
 **Modernização de Serviços Financeiros**
 A plataforma COiN (Contract Intelligence) do JPMorgan Chase demonstra o potencial transformador da IA vertical. Em vez de copilotos horizontais, eles criaram sistemas de IA específicos para análise de documentos jurídicos, alcançando:
 - 360.000 horas de trabalho anual realizadas em segundos
-- 99,5% de acurácia contra 85% da acurácia humana
-- Mais de US$ 150 milhões em economia operacional anual
-- Eliminação completa de gargalos no processamento de documentos (JPMorgan Chase Annual Report, 2023)
+- Maior acurácia e menor propenção a erros comparado à revisão humana
+- Milhões de dólares em economia operacional anual
+- Eliminação completa de gargalos no processamento de documentos (JPMorgan Chase, 2017)
 
 **Inteligência de Pesquisa Empresarial**
-A plataforma de notícias e analytics da Bloomberg, movida por IA, mostra como a especialização vertical gera resultados revolucionários:
-- 60% de aumento na produtividade de analistas
-- Mais de US$ 3 milhões em ganhos anuais de eficiência
-- Quase eliminação de erros de informação detectados por clientes
-- Geração de insights que supera a análise exclusivamente humana (Bloomberg Professional Services Case Study, 2024)
+A plataforma de notícias e analytics da Bloomberg, movida por IA, demonstra como a especialização vertical pode gerar resultados significativos:
+- Aumentos substanciais na produtividade de analistas
+- Significativos ganhos anuais de eficiência operacional
+- Redução drástica de erros de informação detectados por clientes
+- Geração de insights que complementa e aprimora a análise humana
 
 **Otimização de Operações Industriais**
-A MindSphere AI da Siemens para operações industriais demonstra o impacto sistemático da IA B2B:
-- 25% de redução em paradas não planejadas
-- 15% de melhoria na efetividade geral dos equipamentos
-- Mais de US$ 50 milhões em valor anual criado em implementações de clientes
-- Capacidades preditivas que previnem, em vez de apenas reagir, a problemas operacionais (Siemens Digital Industries Annual Report, 2024)
+A plataforma MindSphere AI da Siemens para operações industriais demonstra o impacto sistemático da IA B2B:
+- Reduções significativas em paradas não planejadas
+- Melhorias substanciais na efetividade geral dos equipamentos
+- Criação de valor substancial em implementações de clientes corporativos
+- Capacidades preditivas que previnem, em vez de apenas reagir, a problemas operacionais
 
 **A Oportunidade para Gestão de Produtos**
 
@@ -287,20 +287,16 @@ O caminho do paradoxo à transformação começa entendendo por que as abordagen
 
 ## Referências
 
-Bloomberg Professional Services. (2024). *AI-Powered Analytics Transformation Case Study.* Bloomberg Terminal Intelligence Report.
-
 Boston Consulting Group. (2024). *The AI Transformation Playbook: Lessons from 300+ Enterprise Implementations.* BCG Insights Report.
 
 Chui, M., Manyika, J., Miremadi, M., Henke, N., Chung, R., Nel, P., & Malhotra, S. (2024). *The State of AI in 2024: The Next Chapter Unfolds.* McKinsey Global Institute.
 
-JPMorgan Chase & Co. (2023). *Annual Report 2023: Technology and Innovation.* SEC Form 10-K Filing.
+JPMorgan Chase & Co. (2017). *COIN: Contract Intelligence Platform Implementation.* Reportado por Bloomberg News, 28 de fevereiro de 2017.
 
 McKinsey Global Institute. (2024). *The Economic Potential of Generative AI: The Next Productivity Frontier.* McKinsey & Company.
 
-Product Management Institute. (2024). *Annual State of Product Management Survey: AI Adoption and Impact Analysis.* PMI Research Report.
+McKinsey & Company. (2024). *The State of AI in Early 2024: Gen AI Adoption Spikes and Starts to Generate Value.* McKinsey Global Institute.
 
-Siemens Digital Industries. (2024). *MindSphere Industrial AI Platform: Customer Success Metrics and ROI Analysis.* Siemens Annual Sustainability Report.
-
-Stanford University. (2024). *Artificial Intelligence Index Report 2024: Measuring Trends in AI.* Stanford Institute for Human-Centered Artificial Intelligence.
+Stanford Institute for Human-Centered Artificial Intelligence. (2024). *Artificial Intelligence Index Report 2024: Measuring Trends in AI.* Stanford University.
 
 *Os US$ 4,4 trilhões em oportunidades não são teóricos—estão sendo capturados por equipes de produto ousadas o suficiente para ir além da experimentação rumo à transformação sistemática.* 
